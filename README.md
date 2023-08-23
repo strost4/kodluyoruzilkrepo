@@ -2,7 +2,7 @@
 
 Bu repo [kodluyoruz][https://kodluyoruz.org/] Front-End Egitiminde olusturdugunuz ilk rep. Icerisinde bir adet README dosyasi, bir adet de index.html barindiriyor
 
-![](git/odev1/ornekreadme.md)
+![](https://github.com/Kodluyoruz/taskforce/raw/main/git/odev1/figures/github.png)
 
 # Installation
 
